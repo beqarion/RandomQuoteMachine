@@ -64,7 +64,8 @@ function handler(){
     },
     1000
   );
-   // $("#text").text(quotes[randomNumber].quote);
+  
+  // $("#text").text(quotes[randomNumber].quote);
   // $("#author").text(quotes[randomNumber].author);
   previousNumber = randomNumber;
 }
